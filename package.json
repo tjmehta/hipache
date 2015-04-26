@@ -22,6 +22,8 @@
     "lib": "./lib"
   },
   "dependencies": {
+    "deep-defaults": "^1.0.3",
+    "flatten.js": "^0.1.0",
     "http-proxy": "1.0.2",
     "redis": "0.10.x",
     "lru-cache": "2.5.x",
